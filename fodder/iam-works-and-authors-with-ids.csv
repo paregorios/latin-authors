@@ -1,0 +1,835 @@
+iam_work_id,author_abbrev,title_abbrev,author_name,iam_author_id,latin_title,modern_title
+iamwork2,Ael.,Fr.,Aelian,aelian,Fragmenta,Fragments
+iamwork5,Ael. Tact.,Tact.,Aelianus Tacticus,aelianus-tacticus,Tactica,Tactics
+iamwork17,Aët.,Epon.,Aëtius,aetius,Eponymous,
+iamwork18,Alc.,Epon.,Alcaeus,alcaeus,Eponymous,
+iamwork21,Alciph.,Epist.,Alciphron,alciphron,Letters,
+iamwork22,Alcm.,Epon.,Alcman,alcman,Eponymous,
+iamwork23,Alex. Polyh.,Epon.,Alexander Polyhistor,alexander-polyhistor,Eponymous,
+iamwork24,Amm. Marc.,Epon.,Ammianus Marcellinus,ammianus-marcellinus,Eponymous,
+iamwork26,Anac.,Epon.,Anacreon,anacreon,Eponymous,
+iamwork31,Anon.,1 Chr.,Anonymous,,1 Chronicles,
+iamwork32,Anon.,1 Kgs.,Anonymous,,1 Kings,
+iamwork33,Anon.,1 Sm.,Anonymous,,1 Samuel,
+iamwork34,Anon.,2 Chr.,Anonymous,,2 Chronicles,
+iamwork35,Anon.,2 Kgs.,Anonymous,,2 Kings,
+iamwork36,Anon.,2 Sm.,Anonymous,,2 Samuel,
+iamwork37,Anon.,Am.,Anonymous,,Amos,
+iamwork38,Anon.,Anth. Pal.,Anonymous,,Anthologia Palatina,Anthologia Palatina
+iamwork39,Anon.,Anth. Plan.,Anonymous,,Anthologia Planudea,Anthologia Planudea
+iamwork40,Anon.,Ath. pol.,Anonymous,,Athenaion politeia (Aristotelian),Constitution of Athens
+iamwork41,Anon.,Auct. ad Her.,Anonymous,,Auctor ad Herennium,
+iamwork42,Anon.,B. Afr.,Anonymous,,Bellum Africum,
+iamwork43,Anon.,B. Alex.,Anonymous,,Bellum Alexandrinum,
+iamwork44,Anon.,B. Hisp.,Anonymous,,Bellum Hispaniense,
+iamwork45,Anon.,Carm. arv.,Anonymous,,Carmen arvale,
+iamwork46,Anon.,Carm. epigr.,Anonymous,,Carmina epigraphica,
+iamwork47,Anon.,Chron. Marcell.,Anonymous,,"Marcellinus, Chronicon",
+iamwork48,Anon.,Chron. min.,Anonymous,,Chronica minora,
+iamwork49,Anon.,Chron. Pasch.,Anonymous,,Chronicon Paschale,
+iamwork50,Anon.,Cod. Iust.,Anonymous,,Codex Iustinianus,Justinian Code
+iamwork51,Anon.,Cod. Theod.,Anonymous,,Codex Theodosianus,Theodosian Code
+iamwork52,Anon.,Comm.in Arist.Graeca,Anonymous,,Commentaria in Aristotelem Graeca,
+iamwork53,Anon.,De Com.,Anonymous,,De Comoedia,
+iamwork54,Anon.,Dn.,Anonymous,,Daniel,
+iamwork55,Anon.,Dt.,Anonymous,,Deuteronomy,
+iamwork56,Anon.,Eccl.,Anonymous,,Ecclesiastes,
+iamwork57,Anon.,En.,Anonymous,,Enoch,
+iamwork58,Anon.,Esther,Anonymous,,Esther,
+iamwork59,Anon.,Ex.,Anonymous,,Exodus,
+iamwork60,Anon.,Ez.,Anonymous,,Ezekiel,
+iamwork61,Anon.,Ezr.,Anonymous,,Ezra,
+iamwork62,Anon.,Gn.,Anonymous,,Genesis,
+iamwork63,Anon.,Habk.,Anonymous,,Habakkuk,
+iamwork64,Anon.,Heb.,Anonymous,,Hebrews,
+iamwork65,Anon.,Hg.,Anonymous,,Haggai,
+iamwork66,Anon.,Hos.,Anonymous,,Hosea,
+iamwork67,Anon.,Hymn. Hom. Ap.,Anonymous,,Hymnus Homericus ad Apollinem,Homeric Hymn to Apollo
+iamwork68,Anon.,Hymn. Hom. Bacch.,Anonymous,,Hymnus Homericus ad Bacchum,Homeric Hymn to Bacchus
+iamwork69,Anon.,Hymn. Hom. Cer.,Anonymous,,Hymnus Homericus ad Cererem,Homeric Hymn to Ceres
+iamwork70,Anon.,Hymn. Hom. Dem.,Anonymous,,Hymnus Homericus ad Demeter,Homeric Hymn to Demeter
+iamwork71,Anon.,Hymn. Hom. Mart.,Anonymous,,Hymnus Homericus ad Martem,Homeric Hymn to Ares
+iamwork72,Anon.,Hymn. Hom. Merc.,Anonymous,,Hymnus Homericus ad Mercurium,Homeric Hymn to Hermes
+iamwork73,Anon.,Hymn. Hom. Pan,Anonymous,,Hymnus Homericus ad Panem,Homeric Hymn to Pan
+iamwork74,Anon.,Hymn. Hom. Ven.,Anonymous,,Hymnus Homericus ad Venerem,Homeric Hymn to Aphrodite
+iamwork75,Anon.,Hymn. Mag.,Anonymous,,Hymni Magici,
+iamwork76,Anon.,Hymn. Orph.,Anonymous,,Hymni Orphici,
+iamwork77,Anon.,Is.,Anonymous,,Isaiah,
+iamwork78,Anon.,It. Alex.,Anonymous,,Itinerarium Alexandri,
+iamwork79,Anon.,It. Ant.,Anonymous,,Itineraria Antonini Augusti,
+iamwork80,Anon.,Jb.,Anonymous,,Job,
+iamwork81,Anon.,Jgs.,Anonymous,,Judges,
+iamwork82,Anon.,Joel,Anonymous,,Joel,
+iamwork83,Anon.,Jon.,Anonymous,,Jonah,
+iamwork84,Anon.,Jos.,Anonymous,,Joshua,
+iamwork85,Anon.,Jude,Anonymous,,Jude,
+iamwork86,Anon.,Lamentations,Anonymous,,Lamentations,
+iamwork87,Anon.,Lib. colon.,Anonymous,,Libri coloniarum,
+iamwork88,Anon.,Lv.,Anonymous,,Leviticus,
+iamwork89,Anon.,Mal.,Anonymous,,Malachi,
+iamwork90,Anon.,Micah,Anonymous,,Micah,
+iamwork91,Anon.,Mt.,Anonymous,,Matthew,
+iamwork92,Anon.,Nahum,Anonymous,,Nahum,
+iamwork93,Anon.,Nehemiah,Anonymous,,Nehemiah,
+iamwork94,Anon.,Nm.,Anonymous,,Numbers,
+iamwork95,Anon.,Not. Dign. [occ][or],Anonymous,,Notitia dignitatum in partibus occidentis/orientis,
+iamwork96,Anon.,Nov. Theod.,Anonymous,,Novellae Theodosianae,
+iamwork97,Anon.,Obadiah,Anonymous,,Obadiah,
+iamwork98,Anon.,Peripl. M. Rubr.,Anonymous,,Periplus Maris Rubri,
+iamwork99,Anon.,Prv.,Anonymous,,Proverbs,
+iamwork100,Anon.,Ps.,Anonymous,,Psalms,
+iamwork101,Anon.,Rav. Cosm.,Anonymous,,Cosmographica Anonymi Ravennatis,
+iamwork102,Anon.,Rhet. Her.,Anonymous,,Rhetorica ad Herennium,
+iamwork103,Anon.,Ru.,Anonymous,,Ruth,
+iamwork104,Anon.,Sg.,Anonymous,,Song of Songs,
+iamwork105,Anon.,Suda,Anonymous,,Suidas,
+iamwork106,Anon.,Zec.,Anonymous,,Zechariah,
+iamwork107,Anon.,Zephaniah,Anonymous,,Zephanaiah,
+iamwork109,Antig. Car.,Epon.,Antigonus Carystius,antigonus-carystius,Eponymous,
+iamwork110,Antip. Sid.,Epon.,Antipater Sidonius,antipater-sidonius,Eponymous,
+iamwork129,Appolonius Dyscolus,Pron.,Appolonius Dyscolus,appolonius-dyscolus,De pronominibus,
+iamwork130,Apsines,Rhet.,Apsines,apsines,Ars rhetorica,
+iamwork131,Apth.,Prog.,Aphthonius,aphthonius,Progymnasmata,
+iamwork132,Apul.,Apol.,Apuleius,apuleius,Apologia,
+iamwork133,Apul.,Asclep.,Apuleius,apuleius,Asclepius,
+iamwork134,Apul.,De deo Soc.,Apuleius,apuleius,De deo Socratico,
+iamwork135,Apul.,De dog. Plat.,Apuleius,apuleius,De dogmate Platonis,
+iamwork136,Apul.,Flor.,Apuleius,apuleius,Florida,
+iamwork137,Apul.,Met.,Apuleius,apuleius,Metamorphoses,
+iamwork149,Ar. Byz.,Epon.,Aristophanes Byzantinus,aristophanes-byzantinus,Eponymous,
+iamwork150,Aratus,Phaen.,Aratus,aratus,Phaenomena,
+iamwork151,Aratus,Progn.,Aratus,aratus,Prognostica,
+iamwork152,Archil.,Epon.,Archilochus,archilochus,Eponymous,
+iamwork157,Arist.,Cael.,Aristotle,aristotle,De caelo,
+iamwork159,Arist.,Col.,Aristotle,aristotle,De coloribus,
+iamwork161,Arist.,De audib.,Aristotle,aristotle,De audibilibus,
+iamwork162,Arist.,De motu an.,Aristotle,aristotle,De motu animalium,
+iamwork166,Arist.,Gen. an.,Aristotle,aristotle,De generatione animalium,
+iamwork168,Arist.,Hist. an.,Aristotle,aristotle,Historia animalium,
+iamwork169,Arist.,IA,Aristotle,aristotle,De incessu animalium,
+iamwork171,Arist.,Lin. Ins.,Aristotle,aristotle,De lineis inseccabilibus,
+iamwork173,Arist.,Mech.,Aristotle,aristotle,Mechanica,
+iamwork177,Arist.,Mir. ausc.,Aristotle,aristotle,De mirabilibus auscultationibus,
+iamwork180,Arist.,Part. an.,Aristotle,aristotle,De partibus animalium,
+iamwork181,Arist.,Parv. nat.,Aristotle,aristotle,Parva naturalia,Parva naturalia
+iamwork183,Arist.,Phgn.,Aristotle,aristotle,Physiognomica,
+iamwork192,Arist.,Top.,Aristotle,aristotle,Topica,Topics
+iamwork193,Arist.,Xen.,Aristotle,aristotle,De Xenophane,
+iamwork195,Aristid.,Or.,Aristides,aristides,Orationes,
+iamwork197,Aristid. Quint.,Epon.,Aristides Quintilianus,aristides-quintilianus,Eponymous,
+iamwork198,Aristox.,Fr. hist.,Aristoxenus,aristoxenus,Fragmenta historica,
+iamwork199,Aristox.,Harm.,Aristoxenus,aristoxenus,Harmonica,
+iamwork200,Aristox.,Rhythm.,Aristoxenus,aristoxenus,Rhythmica,
+iamwork201,Arn.,Adv. nat.,Arnobius,arnobius,Adversus nationes,
+iamwork202,Arr.,Anab.,Arrian,arrian,Anabasis,
+iamwork203,Arr.,Cyn.,Arrian,arrian,Cynegeticus,
+iamwork204,Arr.,Epict. diss.,Arrian,arrian,Epicteti dissertationes,
+iamwork205,Arr.,Parth.,Arrian,arrian,Parthica,
+iamwork206,Arr.,Peripl. M. Eux.,Arrian,arrian,Periplus Maris Euxini,
+iamwork207,Arr.,Tact.,Arrian,arrian,Tactica,
+iamwork208,Artem.,Epon.,Artemidorus Daldianus,artemidorus-daldianus,Eponymous,
+iamwork209,Asc.,Corn.,Asconius,asconius,"Commentary on Cicero, Pro Corneleo de maiestate",
+iamwork210,Asc.,Mil.,Asconius,asconius,"Commentary on Cicero, Pro Milone",
+iamwork211,Asc.,Pis.,Asconius,asconius,"Commentary on Cicero, In Pisonem",
+iamwork212,Asc.,Verr.,Asconius,asconius,"Commentary on Cicero, In Verrem",
+iamwork213,Ath.,Epon.,Athenaeus,athenaeus,Eponymous,
+iamwork214,Athengoras,Leg.,Athengoras,athengoras,Legatio pro Christianis,
+iamwork215,August.,Ad Rom.,Augustine,augustine,Expositio of Epist. ad Romanos,
+iamwork216,August.,C. acad.,Augustine,augustine,Contra academicos,
+iamwork217,August.,Conf.,Augustine,augustine,Confessions,
+iamwork218,August.,De civ. D.,Augustine,augustine,De civitate Dei,
+iamwork219,August.,Div. quaest.,Augustine,augustine,De diversis quaestionibus,
+iamwork220,August.,Ep.,Augustine,augustine,Epistulae,
+iamwork221,August.,In Evang. Iohan.,Augustine,augustine,Tractatus in Evangelium Iohannis,
+iamwork222,August.,Retract.,Augustine,augustine,Retractationes,
+iamwork223,August.,Serm.,Augustine,augustine,Sermones,
+iamwork224,Aur. Vict.,Caes.,Aurelius Victor,aurelius-victor,Caesares,
+iamwork225,Aur. Vict.,De vir. ill.,Aurelius Victor,aurelius-victor,De viris illustribus,
+iamwork226,Auson.,Cent. nupt.,Ausonius,ausonius,Cento nuptialis,
+iamwork227,Auson.,Grat. act.,Ausonius,ausonius,Gratiarum actio,
+iamwork228,Auson.,Mos.,Ausonius,ausonius,Mosella,
+iamwork229,Auson.,Ordo nob. urb.,Ausonius,ausonius,Ordo nobilium urbium,
+iamwork230,Auson.,Prof. Burd.,Ausonius,ausonius,Commemoratio professorum Burdigalensium,
+iamwork231,Auson.,Technop.,Ausonius,ausonius,Technopaegnion,
+iamwork232,Bacchyl.,Epon.,Bacchylides,bacchylides,Eponymous,
+iamwork233,Baruch,Jer.,Baruch,baruch,Jeremiah,
+iamwork234,Basil.,De virg.,Basilius,basilius,De virginitate,
+iamwork235,Caes.,B Afr.,Caesar,caesar,Bellum Africum,
+iamwork236,Caes.,B Civ.,Caesar,caesar,Bellum Civile,
+iamwork237,Caes.,B Gall.,Caesar,caesar,Bellum Gallicum,
+iamwork238,Callim.,Aet.,Callimachus,callimachus,Aetia,
+iamwork239,Callim.,Epigr.,Callimachus,callimachus,Epigrammata,
+iamwork240,Callim.,Hymn 1,Callimachus,callimachus,Hymn to Zeus,
+iamwork241,Callim.,Hymn 2,Callimachus,callimachus,Hymn to Apollo,
+iamwork242,Callim.,Hymn 3,Callimachus,callimachus,Hymn to Artemis,
+iamwork243,Callim.,Hymn 4,Callimachus,callimachus,Hymn to Delos,
+iamwork244,Callim.,Hymn 5,Callimachus,callimachus,Hymn to Athena,
+iamwork245,Callim.,Hymn 6,Callimachus,callimachus,Hymn to Demeter,
+iamwork246,Callim.,Ia.,Callimachus,callimachus,Iambics,
+iamwork247,Calp.,Ecl.,Calpurnius Siculus,calpurnius-siculus,Eclogues,
+iamwork248,Cass. Dio,Epon.,Cassius Dio,cassius-dio,Eponymous,
+iamwork249,Cassiod.,Inst.,Cassiodorus,cassiodorus,Institutiones,
+iamwork250,Cassiod.,Var.,Cassiodorus,cassiodorus,Variae,
+iamwork251,Cato,Agr. Orig.,Cato,cato,De agricultura or De re rustica Origines,
+iamwork252,Catull.,Epon.,Catullus,catullus,Eponymous,
+iamwork253,Celsus,Med.,Celsus,celsus,De medicina,
+iamwork254,Censorinus,DN,Censorinus,censorinus,De die natali,
+iamwork255,Chalcid.,In Tim.,Chalcidius,chalcidius,In Platonis Timaeum,
+iamwork256,Charisius,Gramm.,Charisius,charisius,Ars grammatica,
+iamwork257,Cic.,Acad.,Cicero (Marcus Tullius),cicero-marcus-tullius,"Academicae quaestiones (= Plasberg, Bk. 4)",
+iamwork258,Cic.,Acad. post.,Cicero (Marcus Tullius),cicero-marcus-tullius,"Academica Priora (= Plasberg, Bk. 1)",
+iamwork259,Cic.,Ad Brut.,Cicero (Marcus Tullius),cicero-marcus-tullius,Epistulae ad Brutum,
+iamwork260,Cic.,Amic.,Cicero (Marcus Tullius),cicero-marcus-tullius,De amicitia,
+iamwork261,Cic.,Arch.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Archia,
+iamwork262,Cic.,Att.,Cicero (Marcus Tullius),cicero-marcus-tullius,Epistule ad Atticum,
+iamwork263,Cic.,Balb.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Balbo,
+iamwork264,Cic.,Caecin.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Caecina,
+iamwork265,Cic.,Cael.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Caelio,
+iamwork266,Cic.,Cat.,Cicero (Marcus Tullius),cicero-marcus-tullius,In Catilinam,
+iamwork267,Cic.,Clu.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Cluentio,
+iamwork268,Cic.,Corn.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Cornelio de maiestate,
+iamwork269,Cic.,De or.,Cicero (Marcus Tullius),cicero-marcus-tullius,De oratore,
+iamwork270,Cic.,Deiot.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro rege Deiotaro,
+iamwork271,Cic.,Div.,Cicero (Marcus Tullius),cicero-marcus-tullius,De divinatione,
+iamwork272,Cic.,Div. Caec.,Cicero (Marcus Tullius),cicero-marcus-tullius,Divinatio in Caecilium,
+iamwork273,Cic.,Dom.,Cicero (Marcus Tullius),cicero-marcus-tullius,De domo sua,
+iamwork274,Cic.,Fam.,Cicero (Marcus Tullius),cicero-marcus-tullius,Epistulae ad familiares,
+iamwork275,Cic.,Fat.,Cicero (Marcus Tullius),cicero-marcus-tullius,De fato,
+iamwork276,Cic.,Fin.,Cicero (Marcus Tullius),cicero-marcus-tullius,De finibus,
+iamwork277,Cic.,Flac.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Flacco,
+iamwork278,Cic.,Font.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Fonteio,
+iamwork279,Cic.,Har. resp.,Cicero (Marcus Tullius),cicero-marcus-tullius,De haruspicum responso,
+iamwork280,Cic.,Inv. rhet.,Cicero (Marcus Tullius),cicero-marcus-tullius,De inventione rhetorica,
+iamwork281,Cic.,Leg.,Cicero (Marcus Tullius),cicero-marcus-tullius,De legibus,
+iamwork282,Cic.,Leg. agr.,Cicero (Marcus Tullius),cicero-marcus-tullius,De lege agraria,
+iamwork283,Cic.,Leg. Man.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro lege Manilia or De imperio Cn. Pompeii,
+iamwork284,Cic.,Lig.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Ligario,
+iamwork285,Cic.,Luc.,Cicero (Marcus Tullius),cicero-marcus-tullius,Lucullus or Academica posteriora,
+iamwork286,Cic.,Marcell.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Marcello,
+iamwork287,Cic.,Mil.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Milone,
+iamwork288,Cic.,Mur.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Murena,
+iamwork289,Cic.,Nat. D.,Cicero (Marcus Tullius),cicero-marcus-tullius,De natura deorum,
+iamwork290,Cic.,Off.,Cicero (Marcus Tullius),cicero-marcus-tullius,De officiis,
+iamwork291,Cic.,Orat.,Cicero (Marcus Tullius),cicero-marcus-tullius,Orator ad M. Brutum,
+iamwork292,Cic.,Part. or.,Cicero (Marcus Tullius),cicero-marcus-tullius,Partitiones oratoriae,
+iamwork293,Cic.,Phil.,Cicero (Marcus Tullius),cicero-marcus-tullius,Orationes Philippicae,
+iamwork294,Cic.,Pis.,Cicero (Marcus Tullius),cicero-marcus-tullius,In Pisonem,
+iamwork295,Cic.,Planc.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Plancio,
+iamwork296,Cic.,Prov. cons.,Cicero (Marcus Tullius),cicero-marcus-tullius,De provinciis consularibus,
+iamwork297,Cic.,Q Fr.,Cicero (Marcus Tullius),cicero-marcus-tullius,Epistule ad Quintum fratrem,
+iamwork298,Cic.,Q Rosc.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Roscio Postumo,
+iamwork299,Cic.,Quinct.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Quinctio,
+iamwork300,Cic.,Rab. Post.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Rabirio Postumo,
+iamwork301,Cic.,Red. pop.,Cicero (Marcus Tullius),cicero-marcus-tullius,Post reditum ad populum,
+iamwork302,Cic.,Red. sen.,Cicero (Marcus Tullius),cicero-marcus-tullius,Post reditum in senatu,
+iamwork303,Cic.,Rep.,Cicero (Marcus Tullius),cicero-marcus-tullius,De republica,
+iamwork304,Cic.,Rosc. Am.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Sexto Roscio Amerino,
+iamwork305,Cic.,Scaur.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Scauro,
+iamwork306,Cic.,Sen.,Cicero (Marcus Tullius),cicero-marcus-tullius,De senectute,
+iamwork307,Cic.,Sest.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Sestio,
+iamwork308,Cic.,Somn.,Cicero (Marcus Tullius),cicero-marcus-tullius,Somnium Scriponis,
+iamwork309,Cic.,Sull.,Cicero (Marcus Tullius),cicero-marcus-tullius,Pro Sulla,
+iamwork310,Cic.,Tog. cand.,Cicero (Marcus Tullius),cicero-marcus-tullius,Oratio in senatu in toga candida,
+iamwork311,Cic.,Top.,Cicero (Marcus Tullius),cicero-marcus-tullius,Topica,
+iamwork312,Cic.,Tusc.,Cicero (Marcus Tullius),cicero-marcus-tullius,Tusculanae disputationes,
+iamwork313,Cic.,Verr.,Cicero (Marcus Tullius),cicero-marcus-tullius,In Verrem,
+iamwork314,Cicero,Comment. pet.,Cicero (Quintus,cicero-quintus,Commentariolum petitionis,
+iamwork316,CIL,Epon.,CIL,cil,Corpus Inscriptionum Latinum,
+iamwork317,Claud.,Cons.Hon.Cons.Stil.,Claudianus,claudianus,De consulatu Honorii De consulatu Stilichonis,
+iamwork318,Clem. Al.,Protr.,Clemens Alexandrinus,alexandrinus-clemens,Protrepticus,
+iamwork319,Clem. Al.,Strom.,Clemens Alexandrinus,alexandrinus-clemens,Stromateis,
+iamwork320,Columella,Rust.,Columella,columella,De re rustica,
+iamwork321,Conon,Narr.,Conon Mythographus,conon-mythographus,Greek,
+iamwork322,Cornutus,Theol. Graec.,Cornutus (L. Annaeus),annaeus-cornutus-l,Greek,
+iamwork323,Curt.,Epon.,Q. Curtius Rufus,curtius-q-rufus,Eponymous,
+iamwork324,Cyril.,Adv. Iul.,Cyrillus,cyrillus,Adversus Iulianum,
+iamwork325,Dam.,Isid.,Damascius,damascius,Vita Isidori,
+iamwork326,Dem.,De cor.,Demosthenes,demosthenes,De corona,On the Crown
+iamwork327,Dem.,Epit.,Demosthenes,demosthenes,Epitaphius,Funeral Oration
+iamwork328,Dem.,Lept.,Demosthenes,demosthenes,Against Leptines,
+iamwork329,Dem.,Meid.,Demosthenes,demosthenes,Against Meidias,
+iamwork331,Democr.,Epon.,Democritus,democritus,Eponymous,
+iamwork332,Din.,Epon.,Dinarchus,dinarchus,Eponymous,
+iamwork333,Dio Cass.,Epon.,Dio Cassius,cassius-dio,Eponymous,
+iamwork334,Dio Chrys.,Or.,Dio Chrysostomus,chrysostomus-dio,Orationes,
+iamwork335,Dio Cocc.,Epon.,Dio Cocceianus,cocceianus-dio,Eponymous,
+iamwork336,Diocl. Magn.,Epon.,Diocles of Magnesia,diocles-magnesia-of,Eponymous,
+iamwork337,Diod. Sic.,Epon.,Diodorus Siculus,diodorus-siculus,Eponymous,
+iamwork338,Diog. Laert.,Epon.,Diogenes Laertius,diogenes-laertius,Eponymous,
+iamwork339,Diogenian.,Epon.,Diogenianus Paroemiographus,diogenianus-paroemiographus,Eponymous,
+iamwork340,Diom.,Epon.,Diomedes Grammaticus,diomedes-grammaticus,Eponymous,
+iamwork341,Dion. Calliphon.,Epon.,Dionysius Calliphontis filius,calliphontis-dionysius-filius,Eponymous,
+iamwork342,Dion. Hal.,Ant. Rom.,Dionysius Halicarnassensis,dionysius-halicarnassensis,Antiquitates Romanae,
+iamwork343,Dion. Hal.,Comp.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De compositione verborum,
+iamwork344,Dion. Hal.,De imit.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De imitatione,
+iamwork345,Dion. Hal.,Dem.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De Demosthene,
+iamwork346,Dion. Hal.,Isoc.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De Isocrate,
+iamwork347,Dion. Hal.,Lys.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De Lysia,
+iamwork348,Dion. Hal.,Pomp.,Dionysius Halicarnassensis,dionysius-halicarnassensis,Epistula ad Pompeium,
+iamwork349,Dion. Hal.,Rhet.,Dionysius Halicarnassensis,dionysius-halicarnassensis,Ars rhetorica,
+iamwork350,Dion. Hal.,Thuc.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De Thucydide,
+iamwork351,Dion. Hal.,Vett. cens.,Dionysius Halicarnassensis,dionysius-halicarnassensis,De veterum censura,
+iamwork352,Dion. Thrax.,Epon.,Dionysius Thrax,dionysius-thrax,Eponymous,
+iamwork353,Dionys. Per.,Epon.,Dionysius Periegeta,dionysius-periegeta,Eponymous,
+iamwork354,Donat.,Vit. Verg.,Aelius Donatus,aelius-donatus,Vita Vergili,
+iamwork355,Enn.,Ann.,Ennius,ennius,Annales,
+iamwork356,Epicharm.,Epon.,Epicharmus,epicharmus,Eponymous,
+iamwork357,Epicurus,Ep.,Epicurus,epicurus,Epistulae,
+iamwork358,Epicurus,Ep. Hdt.,Epicurus,epicurus,Epistula ad Herodotum,
+iamwork359,Epicurus,Ep. Men.,Epicurus,epicurus,Epistula ad Menoeceum,
+iamwork360,Epicurus,Ep. Pyth.,Epicurus,epicurus,Epistula ad Pythoclem,
+iamwork361,Epicurus,RS,Epicurus,epicurus,Ratae sententiae,
+iamwork362,Epicurus,Sent. Vat.,Epicurus,epicurus,Vatican Sayings (Gnomologium Vaticanum),
+iamwork363,Epiph.,Adv. haeres.,Epiphanius,epiphanius,Adversus haereses,
+iamwork364,Eratosth.,Cat.,Eratosthenes,eratosthenes,Greek,
+iamwork365,Euc.,Epon.,Euclid,euclid,Eponymous,
+iamwork366,Eudem.,Epon.,Eudemus,eudemus,Eponymous,
+iamwork367,Eunap.,VS,Eunapius,eunapius,Vitae sophistarum,
+iamwork368,Eup.,Epon.,Eupolis,eupolis,Eponymous,
+iamwork369,Eur.,Alc.,Euripides,euripides,Alcestis,Alcestis
+iamwork370,Eur.,Andr.,Euripides,euripides,Andromache,
+iamwork371,Eur.,Bacch.,Euripides,euripides,Bacchae,
+iamwork372,Eur.,Beller.,Euripides,euripides,Bellerophon,
+iamwork373,Eur.,Cyc.,Euripides,euripides,Cyclops,
+iamwork374,Eur.,El.,Euripides,euripides,Electra,
+iamwork375,Eur.,Hec.,Euripides,euripides,Hecuba,
+iamwork376,Eur.,Hel.,Euripides,euripides,Helena,
+iamwork377,Eur.,Heracl.,Euripides,euripides,Heraclidae,
+iamwork378,Eur.,HF,Euripides,euripides,Hercules furens,
+iamwork379,Eur.,Hipp.,Euripides,euripides,Hippolytus,
+iamwork380,Eur.,Hyps.,Euripides,euripides,Hypsipyle,
+iamwork381,Eur.,IA,Euripides,euripides,Iphigenia Aulidensis,Iphigeneia in Aulis
+iamwork382,Eur.,IT,Euripides,euripides,Iphigenia Taurica,Iphigeneia in Tauris
+iamwork383,Eur.,Med.,Euripides,euripides,Medea,
+iamwork384,Eur.,Or.,Euripides,euripides,Orestes,
+iamwork385,Eur.,Phoen.,Euripides,euripides,Phoenissae,
+iamwork386,Eur.,Rhes.,Euripides,euripides,Rhesus,
+iamwork387,Eur.,Sthen.,Euripides,euripides,Stheneboea,
+iamwork388,Eur.,Supp.,Euripides,euripides,Supplices,Suppliants
+iamwork389,Eur.,Tro.,Euripides,euripides,Troades,
+iamwork390,Euseb.,Chron.,Eusebius,eusebius,Chronica,
+iamwork391,Euseb.,Hist. eccl.,Eusebius,eusebius,Historia ecclesiastica,
+iamwork392,Euseb.,Praep. evang.,Eusebius,eusebius,Praeparatio evangelica,
+iamwork393,Euseb.,Vit. Const.,Eusebius,eusebius,Vita Constantini,Life of Constantine
+iamwork394,Eust.,Il.,Eustathius,eustathius,Ad Iliadem,
+iamwork395,Eust.,Od.,Eustathius,eustathius,Ad Odysseam,
+iamwork396,Eust.,Prooem. ad Pind.,Eustathius,eustathius,"Eustathii prooemium commentarium Pindaricorum, ed.",
+iamwork397,Eutocius,In Arch. circ. dim.,Eutocius,eutocius,In Archimedis circuli dimensionem,
+iamwork398,Eutr.,Epon.,Eutropius,eutropius,Eponymous,
+iamwork399,Firm. Mat.,Err. prof. rel.,Firmicus Maternus,firmicus-maternus,De errore profanarum religionum,
+iamwork400,Flor.,Epon.,L. Annaeus Florus,annaeus-florus-l,Eponymous,
+iamwork401,Frontin.,Aq.,Frontinus,frontinus,De aquae ductu urbis Romae,
+iamwork402,Frontin.,Str.,Frontinus,frontinus,Strategemata,
+iamwork403,Fronto,Ep.,Fronto,fronto,Epistulae,
+iamwork404,Fulg.,Myth.,Fulgentius,fulgentius,Mitologiae tres libri,
+iamwork405,Gai.,Inst.,Gaius,gaius,Institutiones,
+iamwork406,Gal.,De loc. aff.,Galen,galen,De locis affectis,
+iamwork407,Gal.,Libr. Propr.,Galen,galen,Greek,
+iamwork408,Gal.,Nat. Fac.,Galen,galen,Greek,
+iamwork409,Gell.,NA,Aulus Gellius,aulus-gellius,Noctes Atticae,
+iamwork410,Geog. Rav.,Epon.,Geographer of Ravenna,geographer-of-ravenna,,
+iamwork411,German.,Arat.,Germanicus,germanicus,Aratea,
+iamwork412,Gorg.,Hel.,Gorgias,gorgias,Helena,Encomium of Helen
+iamwork413,Gorg.,Pal.,Gorgias,gorgias,Palamedes,
+iamwork414,Gregory of Tours,Glor. mart.,Gregory of Tours,gregory-of-tours,Gloria martyrorum,
+iamwork415,Gregory of Tours,Hist.,Gregory of Tours,gregory-of-tours,Historiae,
+iamwork416,Harp.,Epon.,Harpocration,harpocration,Eponymous,
+iamwork417,Hdn.,Epon.,Herodianus,herodianus,Eponymous,
+iamwork418,Hdt.,Epon.,Herodotus,herodotus,Eponymous,
+iamwork419,Heliod.,Aeth.,Heliodorus,heliodorus,Aethiopica,
+iamwork420,Heph.,Epon.,Hephaestion,hephaestion,Eponymous,
+iamwork421,Heraclid. Pont.,Epon.,Heraclides Ponticus,heraclides-ponticus,Eponymous,
+iamwork422,Hermog.,Id.,Hermogenes,hermogenes,Greek,
+iamwork423,Hermog.,Inv.,Hermogenes,hermogenes,Greek,
+iamwork424,Hermog.,Prog.,Hermogenes,hermogenes,Greek,
+iamwork425,Herod.,Epon.,Herodotus,herodotus,Eponymous,
+iamwork426,Herodian,Epon.,Aelius Herodianus (and Pseudo-Herodian),aelius-and-herodianus-pseudoherodian,Katholk&ecirc; pros&ocirc;dia,
+iamwork427,Heron,"Pneum,",Heron,heron,Pneumatica,
+iamwork428,Hes.,Cat.,Hesiod,hesiod,Catalogus mulierum,Catalogue of Women
+iamwork429,Hes.,Op.,Hesiod,hesiod,Opera et Dies,Works and Days
+iamwork430,Hes.,Sc.,Hesiod,hesiod,Scutum,Shield
+iamwork431,Hes.,Theog.,Hesiod,hesiod,Theogonia,Theogony
+iamwork432,Himer.,Ecl.,Himerius,himerius,Eclogae,
+iamwork433,Himer.,Or.,Himerius,himerius,Orationes,
+iamwork434,Hippoc.,Acut.,Hippocrates,hippocrates,De diaeta in morbis acutis,
+iamwork435,Hippoc.,Aer.,Hippocrates,hippocrates,"De aera, aquis, locis",
+iamwork436,Hippoc.,Art.,Hippocrates,hippocrates,De articulis,
+iamwork437,Hippoc.,Ep.,Hippocrates,hippocrates,Epistulae,
+iamwork438,Hippoc.,Epid.,Hippocrates,hippocrates,Epidemiae,
+iamwork439,Hippoc.,Morb.,Hippocrates,hippocrates,On Diseases,
+iamwork440,Hippoc.,Morb. sacr.,Hippocrates,hippocrates,De morbo sacro,
+iamwork441,Hippoc.,Mul.,Hippocrates,hippocrates,De mulierum affectibus,
+iamwork442,Hippoc.,Nat. mul.,Hippocrates,hippocrates,De natura muliebri,
+iamwork443,Hippoc.,Nat. puer.,Hippocrates,hippocrates,On the Nature of the Child,
+iamwork444,Hippoc.,Off.,Hippocrates,hippocrates,De officina medici,
+iamwork445,Hippoc.,Virg.,Hippocrates,hippocrates,De virginibus morbis,
+iamwork446,Hippoc.,VM,Hippocrates,hippocrates,De vetere medicina,
+iamwork447,Hippol.,Haer.,Hippolytus,hippolytus,Refutation omnium haeresium,
+iamwork448,Hom.,Il.,Homer,homer,Iliad,
+iamwork449,Hom.,Od.,Homer,homer,Odyssey,
+iamwork450,Hor.,Ars P.,Horace,horace,Ars poetica,
+iamwork451,Hor.,Carm.,Horace,horace,Carmina or Odes,Odes
+iamwork452,Hor.,Carm. saec.,Horace,horace,Carmen saeculare,
+iamwork453,Hor.,Epist.,Horace,horace,Episulae,Epistles
+iamwork454,Hor.,Epod.,Horace,horace,Epodi,Epodes
+iamwork455,Hor.,Sat.,Horace,horace,Satirae or Sermones,Satires
+iamwork456,Hsch.,Epon.,Hesychius,hesychius,Eponymous,
+iamwork457,Hyg.,Fab.,Hyginus,hyginus,Fabulae,
+iamwork458,Hyg.,Poet. astr.,Hyginus,hyginus,Poetica astronomica,
+iamwork464,Iambl.,Myst.,Iamblichus,iamblichus,De mysteriis,On Mysteries
+iamwork465,Iambl.,VP,Iamblichus,iamblichus,Vita Pythagorae,Life of Pythagoras
+iamwork466,Ibyc.,Epon.,Ibycus,ibycus,Eponymous,
+iamwork467,Isae.,Epon.,Isaeus,isaeus,Eponymous,
+iamwork468,Isid.,De vir. ill.,Isidorus,isidorus,De viris illustribus,On Famous Men
+iamwork469,Isid.,Etym.,Isidorus,isidorus,Etymologiae,Etymology
+iamwork470,Isoc.,Antid.,Isocrates,isocrates,Antidosis,Antidosis
+iamwork471,Isoc.,Bus.,Isocrates,isocrates,Busiris,Busiris
+iamwork472,Isoc.,C. soph.,Isocrates,isocrates,Contra sophistas,Against the Sophists
+iamwork473,Isoc.,Panath.,Isocrates,isocrates,Panathenaicus,Panathenaicus
+iamwork474,Isoc.,Paneg.,Isocrates,isocrates,Panegyricus,Panegyric
+iamwork475,James,James,James,james,James,
+iamwork476,Jer.,Ab Abr.,Jerome,jerome,Ab Abraham,From Abraham
+iamwork477,Jer.,Adv. Iovinian,Jerome,jerome,Adversus Iovinianum,Against Jovinian
+iamwork478,Jer.,Chron.,Jerome,jerome,Chronica,Chronicle
+iamwork479,Jer.,De script.eccles.pro,Jerome,jerome,De scriptoribus ecclesiasticis prolegomena,Preface on Church Scriptures
+iamwork480,Jer.,De vir. ill.,Jerome,jerome,De viris illustribus,On Famous Men
+iamwork481,Jer.,Ep.,Jerome,jerome,Epistulae,Letters
+iamwork482,John,1 John,John,john,1 John,
+iamwork483,John,2 John,John,john,2 John,
+iamwork484,John,3 John,John,john,3 John,
+iamwork485,John,Jn.,John,john,John,
+iamwork486,John,Rev.,John,john,Revelations,
+iamwork487,John Mark,Mk.,John Mark,john-mark,Mark,
+iamwork488,Joseph.,AJ,Josephus,josephus,Antiquitates Judaicae,Jewish Antiquities
+iamwork489,Joseph.,Ap.,Josephus,josephus,Contra Apionem,Against Apion
+iamwork490,Joseph.,BJ,Josephus,josephus,Bellum Judaicum,Jewish War
+iamwork491,Joseph.,Vit.,Josephus,josephus,Vita,Life
+iamwork492,Julian.,Apophth.,Julianis imperator,imperator-julianis,Apophthegmata,Sayings
+iamwork493,Julian.,Ep.,Julianis imperator,imperator-julianis,Epistulae,Letters
+iamwork494,Julian.,Mis.,Julianis imperator,imperator-julianis,Misopogon,Beard-Hater
+iamwork495,Julian.,Or.,Julianis imperator,imperator-julianis,Orationes,Orations
+iamwork496,Just.,Epit.,Justinus,justinus,Epitome (of Trogus),
+iamwork497,Justin,Apol.,Justin Martyr,justin-martyr,Apologia,Apology
+iamwork498,Juv.,Epon.,Juvenal,juvenal,Eponymous,
+iamwork499,Lactant.,De mort. pers.,Lactantius,lactantius,De mortibus persecutorum,On the deaths of the persecutors
+iamwork500,Lactant.,Div. inst.,Lactantius,lactantius,Divinae institutiones,Divine Institutions
+iamwork501,Lib.,Epon.,Libanius,libanius,Eponymous,
+iamwork502,Liv. Andron.,Od.,Livius Andronicus,andronicus-livius,Odyssia,Odyssey
+iamwork503,Livy,Epit.,Livy,livy,Epitomae,Epitomes
+iamwork504,Livy,Epon.,Livy,livy,Ab urbe condita libri,Eponymous
+iamwork505,Livy,Per.,Livy,livy,Periochae,Summaries
+iamwork506,Luc.,Epon.,Lucan,lucan,Eponymous,
+iamwork507,Lucian,Alex.,Lucian,lucian,Alexander,Alexander
+iamwork508,Lucian,Anach.,Lucian,lucian,Anacharsis,Anacharsis
+iamwork509,Lucian,Cal.,Lucian,lucian,Calumniae non temere credendum,Tricks not to be Believed Blindly
+iamwork510,Lucian,Catapl.,Lucian,lucian,Cataplus,Cataplus
+iamwork511,Lucian,De mort. Peregr.,Lucian,lucian,De morte peregrini,On the death of the foreigner
+iamwork512,Lucian,Demon.,Lucian,lucian,Demonax,Demonax
+iamwork513,Lucian,Dial. D.,Lucian,lucian,Dialogi deorum,Dialogues of the Gods
+iamwork514,Lucian,Dial. meret.,Lucian,lucian,Dialogi meretricii,Dialogues of the Courtesans
+iamwork515,Lucian,Dial. mort.,Lucian,lucian,Dialogi mortuorum,Dialogues of the Dead
+iamwork516,Lucian,Her.,Lucian,lucian,Herodotus,Herodotus
+iamwork517,Lucian,Hermot.,Lucian,lucian,Hermotimus,Hermotimus
+iamwork518,Lucian,Hist. conscr.,Lucian,lucian,Quomodo historia conscribenda sit,How to Write History
+iamwork519,Lucian,Ind.,Lucian,lucian,Adversus indoctum,Against Ignorance
+iamwork520,Lucian,Iupp. trag.,Lucian,lucian,Iuppiter tragoedus,Jupiter the Tragedian
+iamwork521,Lucian,Luct.,Lucian,lucian,De luctu,On Funerals
+iamwork522,Lucian,Macr.,Lucian,lucian,Macrobii,Macrobii
+iamwork523,Lucian,Nigr.,Lucian,lucian,Nigrinus,Nigrinus
+iamwork524,Lucian,Philops.,Lucian,lucian,Philopseudes,Lover of Lies
+iamwork525,Lucian,Pseudol.,Lucian,lucian,Pseudologista,False Speaking
+iamwork526,Lucian,Salt.,Lucian,lucian,De saltatione,On Dancing
+iamwork527,Lucian,Somn.,Lucian,lucian,Somnium,Sleep
+iamwork528,Lucian,Symp.,Lucian,lucian,Symposium,Symposium
+iamwork529,Lucian,Syr. D.,Lucian,lucian,De Syria dea,On the Syrian Goddess
+iamwork530,Lucian,Trag.,Lucian,lucian,Tragoedopodagra,
+iamwork531,Lucian,Ver. hist.,Lucian,lucian,"Verae historiae, 1, 2",True Histories
+iamwork532,Lucian,Vit. auct.,Lucian,lucian,Vitarum auctio,Philosophies for Sale
+iamwork533,Lucil.,Epon.,Lucilius,lucilius,Eponymous,
+iamwork534,Lucr.,Epon.,Lucretius,lucretius,Eponymous,
+iamwork535,Luke,Acts,Luke,luke,Acts of the Apostles,
+iamwork536,Luke,Lk.,Luke,luke,Luke,
+iamwork537,Lycoph.,Alex.,Lycophron,lycophron,Alexandra,Alexandra
+iamwork539,Lydus,Mag.,Lydus,lydus,De magistratibus,On Magistrates
+iamwork540,Lydus,Mens.,Lydus,lydus,De mensibus,On Months
+iamwork541,Lys.,Epon.,Lysias,lysias,Eponymous,
+iamwork542,M. Aur.,Med.,Marcus Aurelius,aurelius-marcus,Meditations,Meditations
+iamwork543,Macrob.,In Somn.,Macrobius,macrobius,Commentarius ex Cicerone in Somnium Scipionis,Commentary on the dream of Scipio from Cicero
+iamwork544,Macrob.,Sat.,Macrobius,macrobius,Saturnalia,Saturnalia
+iamwork545,Marcellin.,Epon.,Marcellinus,marcellinus,Eponymous,
+iamwork546,Mart.,Spect.,Martial,martial,Spectacula,Spectacles
+iamwork547,Mart. Cap.,Epon.,Martianus Capella,capella-martianus,Eponymous,
+iamwork548,Mel.,Steph.,Meleager,meleager,Stephanus,Garland
+iamwork549,Men.,Dys.,Menander,menander,Dyskolos,Old Cantankerous
+iamwork550,Men.,Epit.,Menander,menander,Epitrepontes,Arbitration
+iamwork551,Men.,Her.,Menander,menander,Heros,Hero
+iamwork552,Men.,Pk.,Menander,menander,Perikeiromene,Rape of the Locks
+iamwork553,Men.,Sam.,Menander,menander,Samia,The Girl from Samos
+iamwork554,Men. Rhet.,Epon.,Menander Rhetor,menander-rhetor,Eponymous,
+iamwork555,Min. Fel.,Oct.,Minucius Felix,felix-minucius,Octavius,Octavius
+iamwork556,Muson.,Epon.,Musonius Rufus,musonius-rufus,Eponymous,
+iamwork557,Nemes.,Cyn.,Nemesianus,nemesianus,Cynegetica,Hunting
+iamwork558,Nemes.,Ecl.,Nemesianus,nemesianus,Eclogae,Eclogues
+iamwork559,Nep.,Att.,Nepos,nepos,Atticus,Atticus
+iamwork560,Nep.,Epam.,Nepos,nepos,Epaminondas,Epaminondas
+iamwork561,Nep.,Milt.,Nepos,nepos,Miltiades,Miltiades
+iamwork562,Nep.,Timoth.,Nepos,nepos,Timotheus,Timotheus
+iamwork563,Nic.,Alex.,Nicander,nicander,Alexipharmaca,Antidotes
+iamwork564,Nic.,Ther.,Nicander,nicander,Theriaca,Theriaca
+iamwork565,Numen.,Epon.,Numenius,numenius,Eponymous,
+iamwork566,Origen,C. Cels.,Origen,origen,Contra Celsum,Against Celsus
+iamwork567,Oros.,Epon.,Orosius,orosius,Eponymous,
+iamwork568,Orph.,Lith.,Orphica,orphica,Lithica,Stones
+iamwork569,Ov.,Am.,Ovid,ovid,Amores,The Loves
+iamwork570,Ov.,Ars am.,Ovid,ovid,Ars amatoria,The Art of Love
+iamwork571,Ov.,Fast.,Ovid,ovid,Fasti,Fasti
+iamwork572,Ov.,Hal.,Ovid,ovid,Halieuticon liber,Book of Fishing
+iamwork573,Ov.,Her.,Ovid,ovid,Heroides,Heroines
+iamwork574,Ov.,Ib.,Ovid,ovid,Ibis,Ibis
+iamwork575,Ov.,Medic.,Ovid,ovid,Medicamina faciei,Cosmetics for the Face
+iamwork576,Ov.,Met.,Ovid,ovid,Metamorphoses,Metamorphoses
+iamwork577,Ov.,Pont.,Ovid,ovid,Epistulae ex Ponto,Letters from Pontus
+iamwork578,Ov.,Rem. am.,Ovid,ovid,Remedia amoris,Remedies for Love
+iamwork579,Ov.,Tr.,Ovid,ovid,Tristia,Sorrows
+iamwork580,Parth.,Amat. narr.,Parthenius,parthenius,Narrationum amatoriarum libellus,Book of Love Stories
+iamwork581,Paul,1 Cor.,Paul,paul,1 Corinthians,
+iamwork582,Paul,1 Thess.,Paul,paul,1 Thessalonians,1 Thessalonians
+iamwork583,Paul,1 Tm.,Paul,paul,1 Timothy,
+iamwork584,Paul,2 Cor.,Paul,paul,2 Corinthians,
+iamwork585,Paul,2 Thess.,Paul,paul,2 Thessalonians,
+iamwork586,Paul,2 Tm.,Paul,paul,2 Timothy,
+iamwork587,Paul,Col.,Paul,paul,Colossians,
+iamwork588,Paul,Ephesians,Paul,paul,Ephesians,
+iamwork589,Paul,Galatians,Paul,paul,Galatians,
+iamwork590,Paul,Phil.,Paul,paul,Phillipians,
+iamwork591,Paul,Philemon,Paul,paul,Philemon,
+iamwork592,Paul,Romans,Paul,paul,Romans,
+iamwork593,Paul,Ti.,Paul,paul,Titus,
+iamwork594,Paul. Fest.,Gloss. Lat.,Festus,festus,Glossaria Latina,Latin Glossary
+iamwork595,Paulus,Sent.,Iulius Paulus,iulius-paulus,Sententiae,Opinions
+iamwork596,Paus.,Epon.,Pausanias,pausanias,Eponymous,
+iamwork597,Pers.,Epon.,Persius,persius,Eponymous,
+iamwork598,Peter,1 Pt.,Peter,peter,1 Peter,
+iamwork599,Peter,2 Pt.,Peter,peter,2 Peter,
+iamwork600,Petron.,Sat.,Petronius,petronius,Satyrica,Satyricon
+iamwork601,Pherec.,Epon.,Pherecydes,pherecydes,Eponymous,
+iamwork602,Philo,CW,Philo Judaeus,judaeus-philo,Edition of Philo Judaeus by L. Cohn and P. Wendland,
+iamwork603,Philo,In Flacc.,Philo Judaeus,judaeus-philo,In Flaccum,Against Flaccus
+iamwork604,Philo,Leg.,Philo Judaeus,judaeus-philo,Legatio ad Gaium,Embassy to Gaius
+iamwork605,Philoch.,Epon.,Philochorus,philochorus,Eponymous,
+iamwork606,Philostr.,Her.,Philostratus,philostratus,Heroicus,Hero
+iamwork607,Philostr.,Imag.,Philostratus,philostratus,Imagines,Essays in Portraiture
+iamwork608,Philostr.,V A,Philostratus,philostratus,Vita Apollonii,Life of Apollonius
+iamwork609,Philostr.,V S,Philostratus,philostratus,Vita sophistarum,Lives of the Sophists
+iamwork610,Phld.,Epon.,Philodemus,philodemus,Eponymous,
+iamwork611,Phlegon,Mir.,Phlegon,phlegon,Miracula,Book of Marvels
+iamwork612,Phot.,Bibl.,Photius,photius,Bibliotheca,Library
+iamwork613,Pind.,Isthm.,Pindar,pindar,Isthmian Odes,Isthmian Odes
+iamwork614,Pind.,Nem.,Pindar,pindar,Nemean Odes,Nemean Odes
+iamwork615,Pind.,Ol.,Pindar,pindar,Olympian Odes,Olympian Odes
+iamwork616,Pind.,Pae.,Pindar,pindar,Paeanes Odes,Paeanes Odes
+iamwork617,Pind.,Pyth.,Pindar,pindar,Pythian Odes,Pythian Odes
+iamwork618,Pl.,Alc.,Plato,plato,Alcibiades,Alcibiades
+iamwork619,Pl.,Ap.,Plato,plato,Apologia,Apology
+iamwork620,Pl.,Ax.,Plato,plato,Axiochus,Axiochus
+iamwork621,Pl.,Chrm.,Plato,plato,Charmides,Charmides
+iamwork622,Pl.,Cra.,Plato,plato,Cratylus,Cratylus
+iamwork623,Pl.,Cri.,Plato,plato,Crito,Crito
+iamwork624,Pl.,Criti.,Plato,plato,Critias,Critias
+iamwork625,Pl.,Epin.,Plato,plato,Epinomis,Epinomis
+iamwork626,Pl.,Euthphr.,Plato,plato,Euthyphro,Euthyphro
+iamwork627,Pl.,Grg.,Plato,plato,Gorgias,Gorgias
+iamwork628,Pl.,Hipparch.,Plato,plato,Hipparchus,Hipparchus
+iamwork629,Pl.,Hp. mai.,Plato,plato,Hippias maior,Hippias the Elder
+iamwork630,Pl.,Hp. mi.,Plato,plato,Hippias Minor,Hippias the Younger
+iamwork631,Pl.,La. or Lach.,Plato,plato,Laches,Laches
+iamwork632,Pl.,Leg.,Plato,plato,Leges,Laws
+iamwork633,Pl.,Menex.,Plato,plato,Menexenus,Menexenus
+iamwork634,Pl.,Phd.,Plato,plato,Phaedo,Phaedo
+iamwork635,Pl.,Phdr.,Plato,plato,Phaedrus,Phaedrus
+iamwork636,Pl.,Phlb.,Plato,plato,Philebus,Philebus
+iamwork637,Pl.,Plt.,Plato,plato,Politicus,Statesman
+iamwork638,Pl.,Prm.,Plato,plato,Parmenides,Parmenides
+iamwork639,Pl.,Prt.,Plato,plato,Protagoras,Protagoras
+iamwork640,Pl.,Resp.,Plato,plato,Respublica,Republic
+iamwork641,Pl.,Soph.,Plato,plato,Sophista,Sophist
+iamwork642,Pl.,Symp.,Plato,plato,Symposium,Symposium
+iamwork643,Pl.,Tht.,Plato,plato,Theaetetus,Theaetetus
+iamwork644,Pl.,Ti.,Plato,plato,Timaeus,Timaeus
+iamwork645,Plato Com.,Epon.,Plato Comicus,comicus-plato,Eponymous,
+iamwork646,Platon.,Diff. com.,Platonius,platonius,De differentia comoediarum,On Distinction among Comedies
+iamwork647,Plaut.,Amph.,Plautus,plautus,Amphitruo,Amphitruo
+iamwork648,Plaut.,Asin.,Plautus,plautus,Asinaria,Asinaria
+iamwork649,Plaut.,Bacch.,Plautus,plautus,Bacchides,Bacchides
+iamwork650,Plaut.,Capt.,Plautus,plautus,Captivi,The Captives
+iamwork651,Plaut.,Cas.,Plautus,plautus,Casina,Casina
+iamwork652,Plaut.,Cist.,Plautus,plautus,Cistellaria,The Casket Comedy
+iamwork653,Plaut.,Curc.,Plautus,plautus,Curculio,The Weevil
+iamwork654,Plaut.,Men.,Plautus,plautus,Menaechmi,The Brothers Menaechmi
+iamwork655,Plaut.,Merc.,Plautus,plautus,Mercator,The Merchant
+iamwork656,Plaut.,Mil.,Plautus,plautus,Miles gloriosus,The Braggart Soldier
+iamwork657,Plaut.,Mostell.,Plautus,plautus,Mostellaria,The Haunted House
+iamwork658,Plaut.,Poen.,Plautus,plautus,Poenulus,The Little Cartheginian
+iamwork659,Plaut.,Pseud.,Plautus,plautus,Pseudolus,The Liar
+iamwork660,Plaut.,Rud.,Plautus,plautus,Rudens,The Rope
+iamwork661,Plaut.,Stich.,Plautus,plautus,Stichus,Stichus
+iamwork662,Plaut.,Trin.,Plautus,plautus,Trinummus,Three Bob Day
+iamwork663,Plin. (E),HN,Pliny (the Elder),elder-pliny-the,Naturalis historia,Natural History
+iamwork664,Plin. (Y),Ep.,Pliny (the Younger),pliny-the-younger,Epistulae,Letters
+iamwork665,Plin. (Y),Pan.,Pliny (the Younger),pliny-the-younger,Panegyricus,Panegyric
+iamwork666,Plin. (Y),Tra.,Pliny (the Younger),pliny-the-younger,Epistulae ad Traianum,Letters to Trajan
+iamwork667,Plotinus,Enn.,Plotinus,plotinus,Enneades,Enneades
+iamwork668,Plut.,Adv. Col.,Plutarch,plutarch,Adversus Coloten,Against Colotes
+iamwork669,Plut.,Aem.,Plutarch,plutarch,Aemilius Paulus,Aemilius Paulus
+iamwork670,Plut.,Ages.,Plutarch,plutarch,Agesilaus,Agesilaus
+iamwork671,Plut.,Alc.,Plutarch,plutarch,Alcibiades,Alcibiades
+iamwork672,Plut.,Alex.,Plutarch,plutarch,Alexander,Alexander
+iamwork673,Plut.,Am. narr.,Plutarch,plutarch,Amatoriae narrationes,Narrations of Love
+iamwork674,Plut.,Amat.,Plutarch,plutarch,Amatorius,Dialogue on Love
+iamwork675,Plut.,An seni,Plutarch,plutarch,An seni respublica gerenda sit,Whether an Old Man Should Engage in Politics
+iamwork676,Plut.,Ant.,Plutarch,plutarch,Antonius,Antonius
+iamwork677,Plut.,Arat.,Plutarch,plutarch,Aratus,Aratus
+iamwork678,Plut.,Arist.,Plutarch,plutarch,Aristides,Aristides
+iamwork679,Plut.,Artax.,Plutarch,plutarch,Artaxerxes,Artaxerxes
+iamwork680,Plut.,Brut.,Plutarch,plutarch,Brutus,Brutus
+iamwork681,Plut.,C. Gracch.,Plutarch,plutarch,Gaius Gracchus,Gaius Gracchus
+iamwork682,Plut.,Caes.,Plutarch,plutarch,Caesar,Caesar
+iamwork683,Plut.,Cam.,Plutarch,plutarch,Camillus,Camillus
+iamwork684,Plut.,"Cat. Mai., Min.",Plutarch,plutarch,"Cato Maior, Minor",Cato the Elder/Cato the Younger
+iamwork685,Plut.,Cic.,Plutarch,plutarch,Cicero,Cicero
+iamwork686,Plut.,Cim.,Plutarch,plutarch,Cimon,Cimon
+iamwork687,Plut.,Cleom.,Plutarch,plutarch,Cleomenes,Cleomenes
+iamwork688,Plut.,Comm. not.,Plutarch,plutarch,De communibus notitiis adversus Stoicos,Against the Stoics on Common Conceptions
+iamwork689,Plut.,Comp. Ar. et Men.,Plutarch,plutarch,Comparatio Aristophanis et Menandri,Comparison of Aristophanes and Menander
+iamwork690,Plut.,Conv. sept. sap.,Plutarch,plutarch,Convivium septem sapientium,The Dinner of the Seven Wise Men
+iamwork691,Plut.,Crass.,Plutarch,plutarch,Crassus,Crassus
+iamwork692,Plut.,De Alex. fort.,Plutarch,plutarch,De fortuna Alexandri,On the Fortune of Alexander
+iamwork693,Plut.,De def. or.,Plutarch,plutarch,De defectu oraculorum,On the Failure of Oracles
+iamwork694,Plut.,De exil.,Plutarch,plutarch,De exilio,On Exile
+iamwork695,Plut.,De fac.,Plutarch,plutarch,De facie in orbe lunae,The Face on the Moon
+iamwork696,Plut.,De fort. Rom.,Plutarch,plutarch,De fortuna Romanorum,On the Fortune of the Romans
+iamwork697,Plut.,De frat. amor.,Plutarch,plutarch,De fraterno amore,On Brotherly Love
+iamwork698,Plut.,De garr.,Plutarch,plutarch,De garrulitate,On Chattering
+iamwork699,Plut.,De gen.,Plutarch,plutarch,De genio Socratis,On the Spirit of Socrates
+iamwork700,Plut.,De glor. Ath.,Plutarch,plutarch,De gloria Atheniensium,On the glory of the Athenians
+iamwork701,Plut.,De Is. et Os.,Plutarch,plutarch,De Iside et Osiride,On Isis and Osiris
+iamwork702,Plut.,De lat. viv.,Plutarch,plutarch,De latenter vivendo,On Living Secretly
+iamwork703,Plut.,De mul. vir.,Plutarch,plutarch,De mulierum virtutibus,On the Virtues of Women
+iamwork704,Plut.,De mus,Plutarch,plutarch,De musica,On Music
+iamwork705,Plut.,De prof. virt.,Plutarch,plutarch,De profectu in virtute,On Advancing in Virtue
+iamwork706,Plut.,De Pyth or.,Plutarch,plutarch,De Pythiae oraculis,On the Pythian Oracle
+iamwork707,Plut.,De sera,Plutarch,plutarch,De sera numinis vindicta,On the Delays of Divine Vengance
+iamwork708,Plut.,De soll. an.,Plutarch,plutarch,De sollertia animalium,On the Cleverness of Animals
+iamwork709,Plut.,De superst.,Plutarch,plutarch,De superstitione,On Superstition
+iamwork710,Plut.,De tranq. anim.,Plutarch,plutarch,De tranquillitate animi,On Tranquility of Spirit
+iamwork711,Plut.,Dem.,Plutarch,plutarch,Demosthenes,Demosthenes
+iamwork712,Plut.,Demetr.,Plutarch,plutarch,Demetrius,Demetrius
+iamwork713,Plut.,Eum.,Plutarch,plutarch,Eumenes,Eumenes
+iamwork714,Plut.,Flam.,Plutarch,plutarch,Flamininus,Flamininus
+iamwork715,Plut.,Galb.,Plutarch,plutarch,Galba,Galba
+iamwork716,Plut.,Luc.,Plutarch,plutarch,Lucullus,Lucullus
+iamwork717,Plut.,Lyc.,Plutarch,plutarch,Lycurgus,Lycurgus
+iamwork718,Plut.,Lys.,Plutarch,plutarch,Lysander,Lysander
+iamwork719,Plut.,Mar.,Plutarch,plutarch,Marius,Marius
+iamwork720,Plut.,Marc.,Plutarch,plutarch,Marcellus,Marcellus
+iamwork721,Plut.,Mor.,Plutarch,plutarch,Moralia,Moralia
+iamwork722,Plut.,Nic.,Plutarch,plutarch,Nicias,Nicias
+iamwork723,Plut.,Num.,Plutarch,plutarch,Numa,Numa
+iamwork724,Plut.,Pel.,Plutarch,plutarch,Pelopidas,Pelopidas
+iamwork725,Plut.,Per.,Plutarch,plutarch,Pericles,Pericles
+iamwork726,Plut.,Phil.,Plutarch,plutarch,Philopoemen,Philopoemen
+iamwork727,Plut.,Phoc.,Plutarch,plutarch,Phocion,Phocion
+iamwork728,Plut.,Pomp.,Plutarch,plutarch,Pompeius,Pompey
+iamwork729,Plut.,Prae. ger. reip.,Plutarch,plutarch,Praecepta gerendae reipublicae,Precepts of Statecraft
+iamwork730,Plut.,Pyrrh.,Plutarch,plutarch,Pyrrhus,Pyrrhus
+iamwork731,Plut.,Quaest. Graec.,Plutarch,plutarch,Quaestiones Graecae,Greek Questions
+iamwork732,Plut.,Quaest. Plat.,Plutarch,plutarch,Quaestiones Platonicae,Platonic Questions
+iamwork733,Plut.,Quaest. Rom.,Plutarch,plutarch,Quaestiones Romanae,Roman Questions
+iamwork734,Plut.,Quest. conv.,Plutarch,plutarch,Quaestiones convivales,Table Talk
+iamwork735,Plut.,Quomodo adul.,Plutarch,plutarch,Quomodo adulescens poetas audire debeat,Why Young Men ought to Hear Poetry
+iamwork736,Plut.,Rom.,Plutarch,plutarch,Romulus,Romulus
+iamwork737,Plut.,Sert.,Plutarch,plutarch,Sertorius,Sertorius
+iamwork738,Plut.,Sol.,Plutarch,plutarch,Solon,Solon
+iamwork739,Plut.,Sull.,Plutarch,plutarch,Sulla,Sulla
+iamwork740,Plut.,Them.,Plutarch,plutarch,Themistocles,Themistocles
+iamwork741,Plut.,Thes.,Plutarch,plutarch,Theseus,Theseus
+iamwork742,Plut.,Ti. Gracch.,Plutarch,plutarch,Tiberius Gracchus,Tiberius Gracchus
+iamwork743,Plut.,Tim.,Plutarch,plutarch,Timoleon,Timoleon
+iamwork744,Plut.,Vit.,Plutarch,plutarch,Vitae Parallelae,Parallel Lives
+iamwork745,Poll.,Onom.,Pollux,pollux,Onomasticon,Poetics
+iamwork746,Polyaenus,Strat.,Polyaenus,polyaenus,Strategemata,Strategems
+iamwork747,Polyb.,Epon.,Polybius,polybius,Eponymous,
+iamwork748,Pompon.,Epon.,Pomponius,pomponius,Eponymous,
+iamwork749,Porph.,Abst.,Porphyry,porphyry,De abstinentia,On Abstinence
+iamwork750,Porph.,De antr. nymph.,Porphyry,porphyry,De antro nympharum,On the Cave of the Nymphs
+iamwork751,Porph.,Plot.,Porphyry,porphyry,Vita plotini,Life of Plotinus
+iamwork752,Procl.,Hypotyp.,Proclus,proclus,Hypotyposis,An Outline
+iamwork753,Procl.,In R.,Proclus,proclus,In Platonis Rempublicam commentarii,Commentary on Plato's Republic
+iamwork754,Procl.,In Ti.,Proclus,proclus,In Platonis Timaeum commentarii,Commentary on Plato's Timaeus
+iamwork755,Procop.,Aed.,Procopius,procopius,De aedificiis,On Buildings
+iamwork756,Procop.,Goth.,Procopius,procopius,De bello Gothico,On the Gothic War
+iamwork757,Procop.,Vand.,Procopius,procopius,De bello Vandalico,On the war with the Vandals
+iamwork758,Prop.,Epon.,Propertius,propertius,Eponymous,
+iamwork759,Prudent,C. Symm.,Prudentius,prudentius,Contra Symmachum,Against Symmachus
+iamwork760,Prudent,Cath.,Prudentius,prudentius,Cathemerina,Hymns for the day
+iamwork761,Prudent,Perist.,Prudentius,prudentius,Peristephanon,Crowns of the Martyrs
+iamwork762,Ptol.,Alm.,Ptolemaeus mathematicus,mathematicus-ptolemaeus,Almagest,Almagest
+iamwork763,Ptol.,Geog.,Ptolemaeus mathematicus,mathematicus-ptolemaeus,Geographia,Geography
+iamwork764,Ptol.,Harm.,Ptolemaeus mathematicus,mathematicus-ptolemaeus,Harmonica,Harmonics
+iamwork765,Ptol.,Tetr.,Ptolemaeus mathematicus,mathematicus-ptolemaeus,Tetrabiblos,Four Books
+iamwork766,Quint.,Ep. ad Tryph.,Quintillian,quintillian,Epistula ad Tryphonem,Letter to Tryphon
+iamwork767,Quint.,Inst.,Quintillian,quintillian,Institutio oratoria,Training in Oratory
+iamwork768,Quint. Smyrn.,Epon.,Auintus Smyrnaeus,auintus-smyrnaeus,Eponymous,
+iamwork769,Rut. Namat.,??,Rutilius Namatianus,namatianus-rutilius,De reditu,On Returning
+iamwork770,Sall.,Ad Caes. sen.,Sallust,sallust,Epistulae ad Caesarem senem,Letters to the Elderly Caesar
+iamwork771,Sall.,Cat.,Sallust,sallust,Bellum Catilinae or De Catilinae coniuratione,War with Catiline/On the Catilinarian Conspiracy
+iamwork772,Sall.,Hist.,Sallust,sallust,Historiae,The Histories
+iamwork773,Sall.,Iug.,Sallust,sallust,Bellum Iugurthinum,Jugurthine War
+iamwork774,Satyr.,Vit. Eur.,Satyrus Historicus,historicus-satyrus,Vita Euripidis,Life of Euripides
+iamwork775,Scymn.,Epon.,Scymnus,scymnus,Eponymous,
+iamwork776,Semon.,Epon.,Semonides,semonides,Eponymous,
+iamwork777,Sen. (E),Con. ex.,Seneca (the Elder),elder-seneca-the,Controversiarum excerpta,Excerpts from Disputes
+iamwork778,Sen. (E),Controv.,Seneca (the Elder),elder-seneca-the,Controversiae,Disputes
+iamwork779,Sen. (E),Suas.,Seneca (the Elder),elder-seneca-the,Suasoriae,Persuasive Discourses
+iamwork780,Sen. (Y),Apocol.,Seneca (the Younger),seneca-the-younger,Apocolocyntosis,Apocolocyntosis
+iamwork781,Sen. (Y),Ben.,Seneca (the Younger),seneca-the-younger,De beneficiis,On Kindness
+iamwork782,Sen. (Y),Clem.,Seneca (the Younger),seneca-the-younger,De clementia,On Clemency
+iamwork783,Sen. (Y),Constant.,Seneca (the Younger),seneca-the-younger,De constantia sapientis,On the Constancy of Wisdom
+iamwork784,Sen. (Y),Dial.,Seneca (the Younger),seneca-the-younger,Dialogi,Dialogues
+iamwork785,Sen. (Y),Ep.,Seneca (the Younger),seneca-the-younger,Epistulae,Letters
+iamwork786,Sen. (Y),Epigr.,Seneca (the Younger),seneca-the-younger,Epigrammata super exilio,Epigrams Concerning Exile
+iamwork787,Sen. (Y),Helv.,Seneca (the Younger),seneca-the-younger,Ad Helviam,To Helvia
+iamwork788,Sen. (Y),Med.,Seneca (the Younger),seneca-the-younger,Medea,Medea
+iamwork789,Sen. (Y),Prov.,Seneca (the Younger),seneca-the-younger,De providentia,On Providence
+iamwork790,Sen. (Y),Q Nat.,Seneca (the Younger),seneca-the-younger,Quaestiones naturales,Natural Questions
+iamwork791,Sen. (Y),Tranq.,Seneca (the Younger),seneca-the-younger,De tranquillitate animi,On Tranquility of Spirit
+iamwork792,Serv.,Praef.,Servius,servius,Praefatio,Preface
+iamwork793,Sext. Emp.,Math.,Sextus Empiricus,empiricus-sextus,Adversus Mathematicus,Against the Professors
+iamwork795,SHA,Ael.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Aelius,Aelius
+iamwork796,SHA,Alex. Sev.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Alexander Severus,Alexander Severus
+iamwork797,SHA,Ant. Pius,Scriptores Historiae Augustae,augustae-historiae-scriptores,Antoninus Pius,Antoninus Pius
+iamwork798,SHA,Aurel.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Aurelian,Aurelian
+iamwork799,SHA,Avid. Cass.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Avidius Cassius,Avidius Cassius
+iamwork800,SHA,Clod.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Clodius,Clodius
+iamwork801,SHA,Comm.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Commodus,Commodus
+iamwork802,SHA,Did. Iul.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Didius Iulianus,Didius Iulianus
+iamwork803,SHA,Hadr.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Hadrian,Hadrian
+iamwork804,SHA,Heliogab.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Heliogabalus,Heliogabalus
+iamwork805,SHA,M. Ant.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Marcus Aurelius Antoninus (Caracalla),Marcus Aurelius Antoninus (Caracalla)
+iamwork806,SHA,Marc.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Marcus,Marcus
+iamwork807,SHA,Max.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Maximinus,Maximinus
+iamwork808,SHA,Pert.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Pertinax,Pertinax
+iamwork809,SHA,Pesc. Nig.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Pescennius Niger,Pescennius Niger
+iamwork810,SHA,Prob.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Probus,Probus
+iamwork811,SHA,Sev.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Severus,Severus
+iamwork812,SHA,Tyr. Trig.,Scriptores Historiae Augustae,augustae-historiae-scriptores,Tyranni Triginta,The Thirty Tyrants
+iamwork813,SHA,Verus,Scriptores Historiae Augustae,augustae-historiae-scriptores,Lucius Verus,Lucius Verus
+iamwork814,Sid. Apoll.,Carm.,Sidonius Apollinaris,apollinaris-sidonius,Carmina,Songs
+iamwork815,Sid. Apoll.,Epist.,Sidonius Apollinaris,apollinaris-sidonius,Epistulae,Letters
+iamwork816,Sil.,Pun.,Silius Italicus,italicus-silius,Punica,On the Punic Wars
+iamwork817,Simon.,Epon.,Simonides,simonides,Eponymous,
+iamwork818,Simpl.,in Cael.,Simplicius,simplicius,in Aristotelis de Caelo Commentarii,Commentary on Aristotle's De Caelo
+iamwork819,Simpl.,in Phys.,Simplicius,simplicius,In Aristotelis de Physica Commentarii,Commentary on Aristotle's De Physica
+iamwork820,Socrates,Hist. eccl.,Socrates,socrates,Historia ecclesiastica,Church History
+iamwork821,Solin.,Epon.,Solinus,solinus,Eponymous,
+iamwork822,Soph.,Aj.,Sophocles,sophocles,Ajax,Ajax
+iamwork823,Soph.,Ant.,Sophocles,sophocles,Antigone,Antigone
+iamwork824,Soph.,El.,Sophocles,sophocles,Electra,Electra
+iamwork825,Soph.,OC,Sophocles,sophocles,Oedipus Coloneus,Oedipus at Colonus
+iamwork826,Soph.,OT,Sophocles,sophocles,Oedipus Tyrannus,Oedipus the King
+iamwork827,Soph.,Phil.,Sophocles,sophocles,Philoctetes,Philoctetes
+iamwork828,Soph.,Trach.,Sophocles,sophocles,Trachiniae,Trachiniae
+iamwork829,Sor.,Gyn.,Soranus,soranus,Gynaeceia,Gynecology
+iamwork830,Sozom.,Hist. eccl.,Sozomen,sozomen,Historia ecclesiastica,Church History
+iamwork831,Stat.,Achil.,Statius,statius,Achilleis,Achilleid
+iamwork832,Stat.,Silv.,Statius,statius,Silvae,Silvae
+iamwork833,Stat.,Theb.,Statius,statius,Thebais,Thebaid
+iamwork834,Steph. Byz.,Epon.,Stephanus Byzantius or Byzantinus,byzantinus-byzantius-or-stephanus,Eponymous,
+iamwork837,Strabo,Epon.,Strabo,strabo,Eponymous,
+iamwork838,Suet.,Aug.,Suetonius,suetonius,Divus Augustus,Divine Augustus
+iamwork839,Suet.,Calig.,Suetonius,suetonius,Gaius Caligula,Gaius Caligula
+iamwork840,Suet.,Claud.,Suetonius,suetonius,Divus Claudius,Divine Claudius
+iamwork841,Suet.,Dom.,Suetonius,suetonius,Domitianus,Domitian
+iamwork842,Suet.,Galb.,Suetonius,suetonius,Galba,Galba
+iamwork843,Suet.,Gram.,Suetonius,suetonius,De grammaticis,On Grammarians
+iamwork844,Suet.,Iul.,Suetonius,suetonius,Divus Iulius,Divine Julius
+iamwork845,Suet.,Ner.,Suetonius,suetonius,Nero,Nero
+iamwork846,Suet.,Poet.,Suetonius,suetonius,De Poetis,On Poets
+iamwork847,Suet.,Rel.,Suetonius,suetonius,Reliquiae,Fragments
+iamwork848,Suet.,Rhet.,Suetonius,suetonius,De rhetoribus,On Rhetoricians
+iamwork849,Suet.,Tib.,Suetonius,suetonius,Tiberius,Tiberius
+iamwork850,Suet.,Tit.,Suetonius,suetonius,Divus Titus,Divine Titus
+iamwork851,Suet.,Vesp.,Suetonius,suetonius,Divus Vespasianus,Divine Vespasian
+iamwork852,Suet.,Vit.,Suetonius,suetonius,Vitellius,Vitellius
+iamwork853,Suet.,Vita Hor.,Suetonius,suetonius,Vita Horatii,Life of Horatio
+iamwork854,Suet.,Vita Luc.,Suetonius,suetonius,Vita Lucani,Life of Lucan
+iamwork855,Symmachus,Ep.,Symmachus,symmachus,Epistulae,Letters
+iamwork856,Symmachus,Relat.,Symmachus,symmachus,Relationes,Reports
+iamwork857,Tac.,Agr.,Tacitus,tacitus,Agricola,Agricola
+iamwork858,Tac.,Ann.,Tacitus,tacitus,Annales, Annals
+iamwork859,Tac.,Dial.,Tacitus,tacitus,Dialogus de oratoribus,Dialogues of the Orators
+iamwork860,Tac.,Germ.,Tacitus,tacitus,Germania,Germany
+iamwork861,Tac.,Hist.,Tacitus,tacitus,Historiae,The Histories
+iamwork862,Tatianus,Ad Gr.,Tatianus,tatianus,Oratio ad Graecos,Oration to the Greeks
+iamwork863,Ter.,Ad.,Terence,terence,Adelphoe,The Brothers
+iamwork864,Ter.,An.,Terence,terence,Andria,The Girl from Andros
+iamwork865,Ter.,Eun.,Terence,terence,Eunuchus,The Eunuch
+iamwork866,Ter.,Haut.,Terence,terence,H(e)autontimorumenos,The Self-Tormentor
+iamwork867,Ter.,Hec.,Terence,terence,Hecyra,The Mother-In-Law
+iamwork868,Ter.,Phorm.,Terence,terence,Phormio,Phormio
+iamwork869,Tert.,Ad nat.,Tertullian,tertullian,Ad nationes,To Nations
+iamwork870,Tert.,Adv. Valent.,Tertullian,tertullian,Adversus Valentinianos,Against Valentinian
+iamwork871,Tert.,Apol.,Tertullian,tertullian,Apologecticus,Apology
+iamwork872,Tert.,De anim.,Tertullian,tertullian,De testimonio animate,On the Testimony of Living
+iamwork873,Tert.,De bapt.,Tertullian,tertullian,De baptismo,On Baptism
+iamwork874,Tert.,De monog.,Tertullian,tertullian,De monogamia,On Monogamy
+iamwork875,Tert.,De praescr. haeret.,Tertullian,tertullian,De praescriptione haereticorum,Treatise on the presecriptions of Heretics
+iamwork876,Tert.,De spect.,Tertullian,tertullian,De spectaculis,On Spectacles
+iamwork877,Them.,Or.,Themistius,themistius,Orationes,Orations
+iamwork878,Theoc.,Epigr.,Theocritus,theocritus,Epigrammata,Epigrams
+iamwork879,Theoc.,Id.,Theocritus,theocritus,Idylls,Idylls
+iamwork880,Theoph.,Ad Autol.,Theophilus,theophilus,Ad Autolycum,To Autolycus
+iamwork881,Theophr.,Caus. pl.,Theophrastus,theophrastus,De causis plantarum,On Plants
+iamwork882,Theophr.,Char.,Theophrastus,theophrastus,Characteres,Characters
+iamwork883,Theophr.,Hist. pl.,Theophrastus,theophrastus,Historia plantarum,History of Plants
+iamwork884,Theophr.,Phys. op.,Theophrastus,theophrastus,Physicorum opiniones,Opinions of Physics
+iamwork885,Theophr.,Sens.,Theophrastus,theophrastus,De sensibus,On the Senses
+iamwork886,Theopomp.,Epon.,Theopompus Historicus,historicus-theopompus,Eponymous,
+iamwork887,Thgn.,Epon.,Theognis,theognis,Eponymous,
+iamwork888,Thuc.,Epon.,Thucydides,thucydides,Eponymous,
+iamwork889,Tib.,Epon.,Tibullus,tibullus,Eponymous,
+iamwork890,Timoth.,Pers.,Timotheus,timotheus,Persae,Persians
+iamwork891,Tzetz.,Chil.,Tzetzes,tzetzes,Historiarum variarum Chiliades,
+iamwork892,Ulp.,Epon.,Ulpianus,ulpianus,Eponymous,
+iamwork893,Val. Max.,Epon.,Valerius Maximus,maximus-valerius,Eponymous,
+iamwork894,Varro,Ling.,Varro,varro,De lingua Latina,On the Latin Language
+iamwork895,Varro,Rust.,Varro,varro,De re rustica,On Rustic Affairs
+iamwork896,Varro,Sat. Men.,Varro,varro,Saturae Menippeae,Menippean Satires
+iamwork897,Vatin.,Epon.,Vatinius,vatinius,Eponymous,
+iamwork898,Veg.,Mil.,Vegetius,vegetius,De re militari,On Military Affairs
+iamwork899,Vell. Pat.,Epon.,Velleius Paterculus,paterculus-velleius,Eponymous,
+iamwork900,Verg.,Aen.,Virgil,virgil,Aeneid,Aeneid
+iamwork901,Verg.,Catal.,Virgil,virgil,Catalepton,Catalepton
+iamwork902,Verg.,Ecl.,Virgil,virgil,Eclogues,Eclogues
+iamwork903,Verg.,G.,Virgil,virgil,Georgics,Georgics
+iamwork904,Vett. Val.,Epon.,Vettius Valens,valens-vettius,Eponymous,
+iamwork905,Vitr.,De arch.,Vitruvius,vitruvius,De architectura,On Architecture
+iamwork906,Vopiscus,Cyn.,Vopiscus,vopiscus,Cynegetica,Hunting
+iamwork907,Xen.,Ages.,Xenophon,xenophon,Agesilaus,Agesilaus
+iamwork908,Xen.,An.,Xenophon,xenophon,Anabasis,Anabasis
+iamwork909,Xen.,Ap.,Xenophon,xenophon,Apologia Socratis,Apology of Socrates
+iamwork910,Xen.,Ath. pol.,Xenophon,xenophon,Respublica Atheniensium,Constitution of the Athenians
+iamwork911,Xen.,Cyn.,Xenophon,xenophon,Cynegeticus,Hunting
+iamwork912,Xen.,Cyr.,Xenophon,xenophon,Cyropaedia,The Education of Cyrus
+iamwork913,Xen.,Eq.,Xenophon,xenophon,De equitandi ratione,On the Art of Horsemanship
+iamwork914,Xen.,Eq. mag.,Xenophon,xenophon,De equitum magistro,On the Cavalry Commander
+iamwork915,Xen.,Hell.,Xenophon,xenophon,Hellenica,Hellenica
+iamwork916,Xen.,Hier.,Xenophon,xenophon,Hiero,Hiero
+iamwork917,Xen.,Lac.,Xenophon,xenophon,Respublica Lacedaemoniorum,The Constitution of the Lacedaemonians
+iamwork918,Xen.,Mem.,Xenophon,xenophon,Memorabilia,Remarkable Things
+iamwork919,Xen.,Oec.,Xenophon,xenophon,Oeconomicus,Economics
+iamwork920,Xen.,Symp.,Xenophon,xenophon,Symposium,Symposium
+iamwork921,Xen.,Vect.,Xenophon,xenophon,De vectigalibus,On Taxes
+iamwork922,Zen.,Epon.,Zenobius,zenobius,Eponymous,
+iamwork923,Zonar.,Epon.,Zonaras,zonaras,Eponymous,
+iamwork924,Zos.,Epon.,Zosimus,zosimus,Eponymous,
