@@ -11,7 +11,7 @@
     </xsl:template>
     
     <xsl:template match="dataroot">
-        <xsl:text>"Author_Abbrev","Title_Abbrev","Authors","Latin_Title","Modern_Title"
+        <xsl:text>"author_abbrev","title_abbrev","author_name","latin_title","modern_title"
 </xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
