@@ -11,12 +11,13 @@
     </xsl:template>
     
     <xsl:template match="dataroot">
-        <xsl:text>"author_abbrev","title_abbrev","author_name","latin_title","modern_title"
+        <xsl:text>"iam_work_id","author_abbrev","title_abbrev","author_name","latin_title","modern_title"
 </xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="Ancient_x0020_References[not(Greek_Title)]">
+        <xsl:text>"iamwork</xsl:text><xsl:value-of select="count(preceding-sibling::Ancient_x0020_References)+1"/><xsl:text>",</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>
 </xsl:text>
